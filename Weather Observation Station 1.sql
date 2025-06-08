@@ -1,0 +1,3 @@
+-- city and state
+SELECT CITY, STATE
+FROM STATION;
