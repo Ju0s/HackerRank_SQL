@@ -47,3 +47,7 @@
 - Weather Observation Station 7
 [문제](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%207.sql)
+
+- Weather Observation Station 8
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%208.sql)
