@@ -1,5 +1,18 @@
 # HackerRank_SQL
+## Advanced Select
+- The PADS
+[문제](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/The%20PADS.sql)
+
 ## Basic Select
+- Employee Names
+[문제](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Employee%20Names.sql)
+
+- Employee Salaries
+[문제](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Employee%20Salaries.sql)
+
 - Higher Than 75 Marks
 [문제](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Higher%20Than%2075%20Marks.sql)
