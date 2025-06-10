@@ -51,3 +51,19 @@
 - Weather Observation Station 8
 [문제](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%208.sql)
+
+- Weather Observation Station 9
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%209.sql)
+
+- Weather Observation Station 10
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2010.sql)
+
+- Weather Observation Station 11
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2011.sql)
+
+- Weather Observation Station 12
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2012.sql)
