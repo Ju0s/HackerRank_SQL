@@ -1,5 +1,9 @@
 # HackerRank_SQL
 ## Basic Select
+- Higher Than 75 Marks
+[문제](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Higher%20Than%2075%20Marks.sql)
+
 - Japanese Cities' Attributes
 [문제](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Japanese%20Cities'%20Attributes.sql)
