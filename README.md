@@ -41,9 +41,37 @@
 [문제](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/The%20Blunder.sql)
 
+- Top Earners
+[문제](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Top%20Earners.sql)
+
 - Weather Observation Station 2
 [문제](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%202.sql)
+
+- Weather Observation Station 13
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2013.sql)
+
+- Weather Observation Station 14
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2014.sql)
+
+- Weather Observation Station 15
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2015.sql)
+
+- Weather Observation Station 16
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2016.sql)
+
+- Weather Observation Station 17
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2017.sql)
+
+- Weather Observation Station 18
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2018.sql)
 
 ## Basic Select
 - Employee Names
