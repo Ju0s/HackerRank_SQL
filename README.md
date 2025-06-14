@@ -1,4 +1,6 @@
 # HackerRank_SQL
+## Advanced Join
+
 ## Advanced Select
 - Binary Tree Nodes
 [문제](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
@@ -16,7 +18,15 @@
 [문제](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/The%20PADS.sql)
 
+- Type of Triangle
+[문제](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Type%20of%20Triangle.sql)
+
 ## Aggregation
+- Average Population
+[문제](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Average%20Population.sql)
+
 - Japan Population
 [문제](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Japan%20Population.sql)
@@ -72,6 +82,33 @@
 - Weather Observation Station 18
 [문제](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2018.sql)
+
+- Weather Observation Station 19
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2019.sql)
+
+- Weather Observation Station 20
+[문제](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2020.sql)
+
+## Alternative Queries
+
+## Basic Join
+- African Cities
+[문제](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/African%20Cities.sql)
+
+- Average Population of Each Continent
+[문제](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Average%20Population%20of%20Each%20Continent.sql)
+
+- Population Census
+[문제](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Population%20Census.sql)
+
+- The Report
+[문제](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/The%20Report.sql)
 
 ## Basic Select
 - Employee Names
