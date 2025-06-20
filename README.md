@@ -1,5 +1,12 @@
 # HackerRank_SQL
 ## Advanced Join
+- Interviews
+[문제](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Interviews.sql)
+
+- SQL Project Planning
+[문제](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/SQL%20Project%20Planning.sql)
 
 ## Advanced Select
 - Binary Tree Nodes
@@ -92,6 +99,9 @@
 [풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Weather%20Observation%20Station%2020.sql)
 
 ## Alternative Queries
+- Draw The Triangle 1
+[문제](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true)
+[풀이](https://github.com/Ju0s/HackerRank_SQL/blob/main/Draw%20The%20Triangle%201.sql)
 
 ## Basic Join
 - African Cities
